@@ -1,5 +1,17 @@
 <?php
 
+/**
+ * User class
+ *
+ * Here is just one method that shows algorithm for updating user. Might look dirty
+ * but works as needed. Of corse, there are some things, that I don't like, so I
+ * hope that client gives more support for upgrades and tuning.
+ *
+ * @copyright  2012 Roberts Rozkalns
+ * @version    Release: @1.3.2@
+ * @since      Class available since Release 0.1
+ */
+
 class User {
 
     /**
