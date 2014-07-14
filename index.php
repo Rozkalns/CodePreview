@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Math memory game
  *
