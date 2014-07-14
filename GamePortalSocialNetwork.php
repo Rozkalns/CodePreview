@@ -1,12 +1,21 @@
 <?php
 
+/**
+ * Social network class
+ *
+ * Here are some methods that are used for social network that I created for 
+ * social games. Used for displaying the icons and other options and so on.
+ * 
+ * P.S. All $_POST's ARE cleaned in DB class
+ *
+ * @copyright  2013 Roberts Rozkalns
+ * @version    Release: @1.0@
+ * @since      Class available since Release 0.1
+ */
+
 class Social {
     
     # Friends related functions ================================================
-    
-    /**
-     * !!! All $_POST's ARE cleaned in DB class
-     */
 
     /** Determines friendship between current user and given user by id
      * 
